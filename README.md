@@ -82,15 +82,19 @@ Here are some screenshots of the Disaster Reporting Tool:
 
 ### Welcome Screen
 
-![Welcome Screen](../assets/images/img1)
+![Welcome Screen](/assets/Images/img3.jpg)
 
 ### Sign In Page
 
-![Sign In Page](assets/images/sign-in.png)
+![Sign In Page](/assets/Images/img5.jpg)
+
+### Reporting Tool Page
+
+![Reporting Tool](/assets/Images/img4.jpg)
 
 ### Map Screen
 
-![Map Screen](assets/images/map-screen.png)
+![Map Screen](assets/Images/img1.jpg)
 
 ## Contributing
 
