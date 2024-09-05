@@ -111,7 +111,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please contact:
 
-- **Email**: your-email@example.com
+- **Email**: Sawantkumar199@gmail.com
 - **GitHub Issues**: [Disaster Reporting Tool Issues](https://github.com/your-username/disaster-reporting-tool/issues)
 ```
 
