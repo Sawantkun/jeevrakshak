@@ -1,7 +1,12 @@
-Certainly! Here’s a sample `README.md` file for your Disaster Reporting Tool. This template includes sections for an overview, installation, usage, features, and more.
+Great! You can use relative paths to reference images from your `assets/images` folder in your `README.md` file. If the images are within your project directory, you can include them like this:
 
----
+1. **Move Images to a Static Folder**: Ensure your images are accessible publicly. For local documentation, place them in a directory that GitHub Pages or your documentation platform can access, like a `docs` or `public` folder.
 
+2. **Update `README.md` with Relative Paths**:
+
+Here’s an updated version of the `README.md` with references to images in your `assets/images` folder:
+
+```markdown
 # Disaster Reporting Tool
 
 ## Overview
@@ -71,6 +76,22 @@ This will start the development server and open the app in your default web brow
 - **Map Screen**: View disaster locations and details on an interactive map.
 - **Get Started**: Click the "Get Started" button to begin using the app's features.
 
+## Screenshots
+
+Here are some screenshots of the Disaster Reporting Tool:
+
+### Welcome Screen
+
+![Welcome Screen](../assets/images/img1)
+
+### Sign In Page
+
+![Sign In Page](assets/images/sign-in.png)
+
+### Map Screen
+
+![Map Screen](assets/images/map-screen.png)
+
 ## Contributing
 
 We welcome contributions to the Disaster Reporting Tool! To contribute:
@@ -92,7 +113,4 @@ For any questions or support, please contact:
 
 - **Email**: your-email@example.com
 - **GitHub Issues**: [Disaster Reporting Tool Issues](https://github.com/your-username/disaster-reporting-tool/issues)
-
----
-
-Feel free to modify the sections as needed to match the specifics of your project, including the actual Firebase configuration, repository URL, and contact details.
+```
